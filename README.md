@@ -46,7 +46,7 @@ MediBook is a role-based web application designed to modernize the medical appoi
 </div>
 
 ### Frontend
-- **Next.js 14** - React framework with App Router
+- **Next.js 15** - React framework with App Router
 - **TypeScript** - Type-safe development
 - **Tailwind CSS** - Utility-first CSS framework
 - **shadcn/ui** - Modern, accessible UI components
